@@ -72,7 +72,7 @@ Once your `emoji_urls.txt` is ready:
    cd path/to/emoji_downloads
    ```
 3. **Make sure you're in the correct folder** before running these next commands:
-
+    **Needs to be linux, ubuntu, or gitbash**
    ```bash
    chmod +x download_emojis.sh
    ./download_emojis.sh
